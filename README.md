@@ -9,3 +9,9 @@
 - Proficient in Ruby and SQL
 - Using TDD and agile practices
 - Focus on paired programming and team work
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delladi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0)](https://visitcount.itsvg.in)
+
