@@ -11,9 +11,6 @@
 [![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Delladi)
-
----
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delladi&show_icons=true&theme=dark)
 
@@ -29,4 +26,6 @@
 
 ## Skills:
 Node.js , SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing, CSS frameworks, HTML, strong TDD in unit test using E to E framework (jest), APIs.
+
+---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Delladi)
