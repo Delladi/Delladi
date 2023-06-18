@@ -30,6 +30,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Delladi)
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delladi&theme=dark)](https://git.io/streak-stats)
 
 
 
