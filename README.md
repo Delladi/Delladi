@@ -35,4 +35,7 @@
 Node.js , SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing, CSS frameworks, HTML, strong TDD in unit test using E to E framework (jest), APIs.
 
 ---
+✍️ Today's inspiration:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Delladi)
