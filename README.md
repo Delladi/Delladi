@@ -37,7 +37,7 @@ Node.js , SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing
 ---
 ✍️ Today's inspiration:
 
-<div style="width: 300px; height: 100px;">
+<div style="width: 280px; height: 80px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quotes" width="100%" height="100%">
 </div>
 
