@@ -13,13 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delladi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0&time=9000000)](https://visitcount.itsvg.in)
-
----
-[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=7C0020&color2=F8DC3D&time=999)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=1)](https://visitcount.itsvg.in).in)
 
 ---
 
