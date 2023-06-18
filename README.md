@@ -27,6 +27,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delladi&layout=compact&theme=dark)
 
 ---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Delladi)
+
+---
 
 
 
