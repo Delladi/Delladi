@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[Delladi](https://github.com/Delladi/))
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Delladi/
 
 ---
 
