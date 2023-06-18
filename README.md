@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0&time=300)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0&time=1000)](https://visitcount.itsvg.in)
 
 
 ## Skills:
