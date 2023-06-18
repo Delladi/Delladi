@@ -20,6 +20,16 @@
 
 ---
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delladi&show_icons=true&theme=dark)
+
+----
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delladi&layout=compact&theme=dark)
+
+---
+
+
+
 
 ## Skills:
 Node.js , SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing, CSS frameworks, HTML, strong TDD in unit test using E to E framework (jest), APIs.
