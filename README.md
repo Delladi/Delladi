@@ -12,7 +12,6 @@
 
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Delladi/
-
 ---
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delladi&show_icons=true&theme=dark)
