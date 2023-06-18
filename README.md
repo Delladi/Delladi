@@ -8,6 +8,9 @@
 - Using TDD and agile practices
 - Focus on paired programming and team work
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delladi&theme=dark)](https://git.io/streak-stats)
+
+---
 [![](https://visitcount.itsvg.in/api?id=Delladi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
@@ -18,8 +21,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delladi&layout=compact&theme=dark)
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delladi&theme=dark)](https://git.io/streak-stats)
 ---
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Delladi&theme=onedark)
 ---
