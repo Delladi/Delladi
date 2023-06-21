@@ -1,13 +1,8 @@
 # Della Izadi
 ## Full Stack Development Student
 ### Switching career from Fintech and Healthcare to Tech!
-## Education
 
-#### Makers Academy (April 2023 to August 2023)
-- Proficient in Ruby and SQL
-- Using TDD and agile practices
-- Focus on paired programming and team work
----
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delladi&theme=dark)](https://git.io/streak-stats)
 
 ---
