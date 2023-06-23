@@ -1,7 +1,7 @@
 # Della Izadi
 ## Full Stack Development Student
 ### Switching career from Fintech and Healthcare to Tech!
-
+Makers Academy Student - Aspiring Software Developer | Ruby | JavaScript | SQL |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delladi&theme=dark)](https://git.io/streak-stats)
 
