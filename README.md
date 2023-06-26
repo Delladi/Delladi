@@ -38,5 +38,3 @@ Node.js , SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing
 
 
 ---
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Delladi)
