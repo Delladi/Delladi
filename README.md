@@ -3,6 +3,8 @@
 ### Switching career from Fintech and Healthcare to Tech!
 Makers Academy Student - Aspiring Software Developer | Ruby | JavaScript | SQL |
 
+I am a highly self-motivated, data-driven, and hard-working professional, transitioning to the world of technology. I am currently studying Software Engineering at the Makers Academy.
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Delladi&theme=dark)](https://git.io/streak-stats)
 
 ---
