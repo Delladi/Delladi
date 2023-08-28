@@ -37,7 +37,7 @@ Cummnity cupboard	    |  A webapp .                                     	|JavaSc
 ---
 
 ## Skills:
-Node.js, SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing, CSS frameworks, HTML, strong TDD in unit test using E to E framework (jest), APIs, React, MongoDB and Cypress testing.
+Node.js, SQL server, git, Postgresql, SQL, OOP, debugging, Jest and IRB testing, CSS frameworks, HTML, strong TDD in unit test using E to E framework (jest), APIs, React, MongoDB,  Cypress testing and Agile Methodologies.
 
 ---
 ✍️ Today's inspiration:
