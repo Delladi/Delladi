@@ -1,6 +1,6 @@
 # Della Izadi
 ## Full Stack Development Student
-### Switching career from Fintech and Healthcare to Tech!
+### Switching career from Fintech to Tech!
 Makers Academy Student - Aspiring Software Developer | Ruby | JavaScript | SQL |
 
 I am a highly self-motivated, data-driven, and hard-working professional, transitioning to the world of technology. I am currently studying Software Engineering at the Makers Academy.
